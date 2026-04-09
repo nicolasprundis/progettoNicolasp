@@ -19,13 +19,13 @@ Il sistema prevede due tipi di utenti: utente base e amministratore.
 
 **Struttura del Database**
 Il database database_prundis è composto da 7 tabelle principali:
-Utenti – gestione di profili e ruoli
-Squadre – informazioni su squadre, città e stadi
-Partite – risultati e giornate di campionato
-Marcatori – statistiche sui gol
-Commenti – commenti degli utenti su notizie e partite
-Preferiti – collegamento tra utenti e squadre preferite
-Notizie – articoli informativi.
+- Utenti: gestione di profili e ruoli
+- Squadre: informazioni su squadre, città e stadi
+- Partite: risultati e giornate di campionato
+- Marcatori: statistiche sui gol
+- Commenti: commenti degli utenti su notizie e partite
+- Preferiti: collegamento tra utenti e squadre preferite
+- Notizie: articoli informativi.
 
 **Avvio del Progetto (Guida Pratica)**
 Database (MYSQL)
